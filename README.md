@@ -4,7 +4,7 @@ Petar Vasev 191553
 
 Control Flow Graph :
 
-![](../Downloads 2.0/Lab2FlowDiagram.png)
+![alt text][Lab2FlowDiagram.png]
 
 Цикломатска комплексност:
 
